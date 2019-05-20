@@ -1,6 +1,6 @@
 %YAML 1.2
 ---
-name: dm-macro
+name: dm_syntax
 file_extensions:
   - mac
 first_line_match: '^\s*!start [a-zA-Z_][a-zA-Z0-9]{0,7}/b'
