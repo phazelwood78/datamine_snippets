@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-!wfcode &points($1),
+!WFCODE &points($1),
   &wiretr($2_tr),&wirept($2_pt),
   &perimin($3),&out($4),
   *x(${5:X}),*y(${6:Y}),*z(${7:Z}),*zone(${8:DOMAIN}),
